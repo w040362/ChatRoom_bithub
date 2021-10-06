@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/icon.png</file>
+        <file>image/icon1.jpg</file>
+        <file>image/icon2.jpg</file>
+        <file alias="star_copy.png">image/star.png</file>
+        <file alias="star1_copy.png">image/star1.png</file>
+        <file alias="star2_copy.png">image/star2.png</file>
+        <file alias="send_copy.png">image/send.png</file>
+        <file alias="flush_copy.png">image/flush.png</file>
+        <file alias="star(1)_copy.png">image/star(1).png</file>
+        <file alias="star(2)_copy.png">image/star(2).png</file>
+        <file alias="flush1_copy.png">image/flush1.png</file>
+        <file alias="file_copy.png">image/file.png</file>
+        <file alias="pic_copy.png">image/pic.png</file>
+        <file>image/send1.png</file>
+        <file>image/file1.png</file>
+        <file>image/icon3.jpg</file>
+        <file>image/icon3.ico</file>
+        <file>image/file3.png</file>
+        <file>image/pic3.png</file>
+        <file>image/time2.png</file>
+        <file>image/刷新(2).png</file>
+        <file>image/flush4.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/icon3.jpg</file>
+    </qresource>
+</RCC>
